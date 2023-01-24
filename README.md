@@ -4,6 +4,9 @@
 
 # Me
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToasterUwU&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToasterUwU&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm Aki, and I had a rough start as a programmer.
 About me in a nutshell:
 
