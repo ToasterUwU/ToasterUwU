@@ -10,4 +10,4 @@ About me in a nutshell:
 - I started with Python
 - I'm 100% self-taught
 - I'm trying to get into Rust to have an alternative to Python when I need something compiled and fast
-- I'm german, but I speak more English in day-to-day life
+- I'm German, but I speak more English in day-to-day life
