@@ -1,6 +1,6 @@
 # Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToasterUwU&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&theme=catppuccin_mocha)
+![Github Card](https://githubcard.com/ToasterUwU.svg?d=vRG8Ej-E)
 
 I'm Aki.
 About me in a nutshell:
